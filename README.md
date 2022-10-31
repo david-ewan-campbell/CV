@@ -6,19 +6,19 @@
 
 # MY PROFILE
 **I am a graduate of the Makers Academy boot-camp** 
-and this is the career change I've been dreaming of, having had a varied background including library services, video subtitling & a previous career in challenging but collaborative work assisting people with learning support needs to facilitate their learning, personal development and creativity.
+and this is the career change I've been dreaming of, after having had a varied background including library services, video subtitling & a previous career in challenging but collaborative work assisting people with learning support needs to facilitate their learning, personal development and creativity.
 
 **I am very keen to progress in a new career in coding** 
-after how fulfilling the learning progress was with a Code Academy Ruby course, testing myself in Code Wars & working through Chris Pine's Learn To Program Book. This initial interest led me to joining the Makers course, where I discovered how involving it is to investigate & contribute to code solutions both independently & within a team through peer-programming.
+after the revelation of how fulfilling it was working through Chris Pine's Learn to Program book and completing a Code Academy Ruby course, I found working on even the simplest solutions fascinating. This initial interest led me to joining the Makers course, where I discovered how involving it is to investigate & contribute to code solutions both independently & within a team through peer-programming.
 
 **BUILDING MY KNOWLEDGE OF CODING FUNDAMENTALS**
-- Since finishing the course phase I have been in the consolidation stage throughout a busy summer and feel I am building a solid grounding in understanding the fundamentals of planning & growing projects in Ruby and Javascript with all the related technology & TDD.
+- Since finishing the course phase I have been in the consolidation stage throughout a busy summer and I am passionate about building a solid grounding in understanding the fundamentals of planning & growing projects in Ruby and Javascript and get-to-grips with all the related technology & TDD.
 
 **ENTHUSIASM & COMMITMENT**
-- I would describe myself as an enthusiastic and committed person who is very keen to learn and develop new skills in the coding field and learn continually from helpful 'errors' & know the joy of breaking through blockers and turning those testing colours from red to green. 
+- I would describe myself as an enthusiastic and committed person who is very keen to learn and develop my skills in coding and to be ready to learn through others from peer-programming, through extensive online research and trying out methods & debugging them myself and from all helpful 'errors' & know the joy of breaking through blockers and the satisfaction  of turning those testing colours from red to green. 
 
 **LITERATE COMMUNICATOR**
-- I am a gentle and easy-to-get-along-with person with excellent, literate communication skills & hope to develop those necessary skills within group projects to build well-designed & useful applications.
+- I am a gentle and easy-to-get-along-with person with excellent, literate communication skills & wish to build on my previous experience & develop those necessary skills within group projects & in independent work to help build apps that are great for users to interact with and are beneficial to people's well being and personal progress in whatever form that takes.
 
 -----------
 
@@ -37,13 +37,13 @@ The Makers course helped me to learn with a lot of self-motivated research how t
 
 - **RESEARCH** - I learnt how to research from a wealth of provided & self-sourced information, and shared those discoveries with others, learning how to differentiate & decipher the necessary methods to help with a project. 
 
-- **COMMUNICATION** - I also drew on previous work experience to ensure the communication was clear within our pairing and project teams and assist in developing good working code with constant check-ins using Slack & Discord.
+- **COMMUNICATION** - I drew on previous work experience to ensure the communication was clear within our pairing and project teams and assist in developing good working code with constant check-ins using Slack, Discord and investigated other peer to peer apps such as Pop.
 
-- **VISIBILITY** - I learned about following single responsibility principles to make our code clearer and to use debugging, following error messages & making visibility clearer to help the building process. 
+- **VISIBILITY** - I learned about following single responsibility principles to make our code clearer and to use debugging, how to follow error messages & how to make visibility clearer to help the building process. 
 
-- **PATIENCE** - Makers laid the groundwork for learning all the fundamentals of incremental full-stack development. I can draw on previous experience having worked with people with learning disabilities when gradually building their knowledge and skills through 'chaining' with patience and sensitivity, to not undermine their skills progress and feel building good code has similar parallels.
+- **PATIENCE** - Makers laid the groundwork for learning all the fundamentals of incremental full-stack development. I can draw on previous experience having worked with people with learning disabilities when gradually building their knowledge and skills through 'chaining' with patience and sensitivity, to not undermine their skills progress and feel the step-by-step building approaches in writing code has similar parallels.
 
-- **PERSISTENCE** - The course has also left me better equipped to discuss & disseminate from a wealth of information, to find specific methods that can contribute helpfully to projects and help drive a project along. I have the persistence from a previous career to keep trying different methods to find one that works better. While acknowledging this is a very new & challenging world I'm entering, I can't wait to get back to improving and committing more changes to previous & new projects and have to thank Makers for helping me make this major leap.
+- **PERSISTENCE** - The course has also left me better equipped to discuss & disseminate from a wealth of information, to find specific methods that can contribute helpfully to projects and help drive a project along. I have the persistence from a previous career to keep trying different methods to find one that works better and to try and get to grips with learning new tech such as trying to get-to-grips with React in 10 days as part of our final project. While acknowledging this is a very new & challenging world I'm entering, I can't wait to get back to improving and committing more changes to previous projects, exploring new projects and work challenges & have to thank Makers for helping me make this major leap.
 
 ------
 
@@ -77,7 +77,7 @@ The Makers course helped me to learn with a lot of self-motivated research how t
 
 **Patience/Communication/Coping with Blockers**
 
-- Within the Makers course I learnt I can bring the skills of patience and good communication from previous work to a development situation and was able to work on sourcing information about methods that could help further that project and make valuable contributions. In the final project we had a significant obstacle with React on how to pull in API data from inputted postcodes, using state 'hooks', but I helped source a key nugget of information that helped progress beyond this major 'blocker'.
+- Within the Makers course I learnt I can bring the skills of patience and good communication from previous work to a development situation and was able to work on sourcing information about methods that could help further that project and make valuable contributions. In the final project we had a significant obstacle with React on how to 'pull in' API data via inputted postcodes, using state 'hooks', but I helped source a key nugget of information that helped progress beyond this major 'blocker'.
 
 **Delegation/Agile Work/Resilience**
 
@@ -95,7 +95,7 @@ I have a previous background in library-cataloguing, office & computing work & s
 
 `FAST RENDERING OF ARCHITECTURAL DRAWINGS & DISPLAYS FOR PROJECTS`
 
-- **Alan Campbell Chartered Architects**  (September 2021 – March 2022)
+- **Alan Campbell Chartered Architects**  (September 2021 – March 2022 & previous periods of work)
 
 `Architectural assistant at family chartered architect firm`
 
@@ -159,7 +159,7 @@ Bridlington School/Scarborough Sixth Form College - 1987/1989\
 # SOME OTHER QUITE INTERESTING THINGS ABOUT ME
 - **As part of a long-term gardening hobby I achieved a Level 1 RHS Certificate with Distinction in Practical Horticulture at Glasgow Botanics & since 2019 have studied a Level 2 RHS Certificate in Principles of Horticulture online in my spare time.**
 
-- **I have been a musician for many years and have recordings released with many different projects, including an album I helped record remotely in lock-down, which was released on an American label last year on vinyl and also have 2 BBC radio sessions amongst my musical achievements.**
+- **I have been a musician for many years and have recordings released with many different projects, including an album I helped record remotely in lock-down, which was released on an American label last year on every format, including vinyl and good old analogue cassette, and also have 2 BBC radio sessions amongst my musical achievements.**
 
 ------
 
