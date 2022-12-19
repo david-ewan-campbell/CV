@@ -1,33 +1,25 @@
 <h1 align="center"> DAVID EWAN CAMPBELL</h1>
 
-[MY PROFILE](#my-profile) | [THE MAKERS EXPERIENCE](#the-makers-experience) | [GITHUB PROJECTS](#github-projects) | [MY SKILLS](#my-skills) | [WORK EXPERIENCE](#work-experience) | [PREVIOUS CAREER EXPERIENCE](#previous-career-experience) | [EDUCATION AND QUALIFICATIONS](#education-and-qualifications) | [SOME OTHER QUITE INTERESTING THINGS ABOUT ME](#some-other-quite-interesting-things-about-me) | <a href="https://www.linkedin.com/in/david-ewan-campbell-11260b61">LINKED IN</a> | <a href="https://www.codewars.com/users/david-ewan-campbell">CODE WARS</a> | <a href="https://github.com/david-ewan-campbell/CV/blob/main/David%20Ewan%20Campbell%20External%20CV.pdf">EXTERNAL CV PDF</a>
+[INTRODUCTION](#introduction) | [MAKERS EXPERIENCE](#makers-experience) | [GITHUB PROJECTS](#github-projects) | [WORK EXPERIENCE](#work-experience) | [PREVIOUS CAREER EXPERIENCE](#previous-career-experience) | [EDUCATION AND QUALIFICATIONS](#education-and-qualifications) | [SOME OTHER QUITE INTERESTING THINGS ABOUT ME](#some-other-quite-interesting-things-about-me) | <a href="https://www.linkedin.com/in/david-ewan-campbell-11260b61">LINKED IN</a> | <a href="https://www.codewars.com/users/david-ewan-campbell">CODE WARS</a> | <a href="https://github.com/david-ewan-campbell/CV/blob/main/David%20Ewan%20Campbell%20External%20CV.pdf">EXTERNAL CV PDF</a>
 
 ----------
 
-# MY PROFILE
+# INTRODUCTION
+
 **I am a graduate of the Makers Academy boot-camp** 
-and this is the career change I've been dreaming of, after having had a varied background including library services, video subtitling & a previous career in challenging but collaborative work assisting people with learning support needs to facilitate their learning, personal development and creativity.
+& this is the career change I've been dreaming of. I had an enriching career in education learning support, which was challenging but collaborative & rewarding work, using technology as part of the process of assisting people with their learning support & education needs. I have also worked within the rigorous areas of video subtitling & library-cataloguing services.
 
-**I am very keen to progress in a new career in coding** 
-after the revelation of how fulfilling it was working through Chris Pine's Learn to Program book and completing a Code Academy Ruby course, I found working on even the simplest solutions fascinating. This initial interest led me to joining the Makers course, where I discovered how involving it is to investigate & contribute to code solutions both independently & within a team through peer-programming.
-
-**BUILDING MY KNOWLEDGE OF CODING FUNDAMENTALS**
-- Since finishing the course phase I have been in the consolidation stage throughout a busy summer and I am passionate about building a solid grounding in understanding the fundamentals of planning & growing projects in Ruby and Javascript and get-to-grips with all the related technology & TDD.
-
-**ENTHUSIASM & COMMITMENT**
-- I would describe myself as an enthusiastic and committed person who is very keen to learn and develop my skills in coding and to be ready to learn through others from peer-programming, through extensive online research and trying out methods & debugging them myself and from all helpful 'errors' & know the joy of breaking through blockers and the satisfaction  of turning those testing colours from red to green. 
-
-**LITERATE COMMUNICATOR**
-- I am a gentle and easy-to-get-along-with person with excellent, literate communication skills & wish to build on my previous experience & develop those necessary skills within group projects & in independent work to help build apps that are great for users to interact with and are beneficial to people's well being and personal progress in whatever form that takes.
+**I am very excited to progress in a new career in coding** 
+which I discovered after completing free courses during lock-down. This interest & passion to learn led me to joining the Makers remote course and discovering how much I enjoy investigating & contributing to code solutions both solo & in team situations.
 
 -----------
 
+# EXPERIENCE
 
-# THE MAKERS EXPERIENCE
-
-`I completed the Makers Academy course in June 2022`
-
-`I had previously completed Code Academy courses in Ruby, Javascript & started other follow-up courses to help the consolidation process including the Odin Project.`
+- **Makers Academy**
+I previously completed Code Academy courses in Ruby & Javascript & then delved deep into the full 
+stack with Makers, started follow-up courses to help the consolidation process including Odin Project
+Makers gave me grounding in the fundamentals of full-stack development.
 
 In the course consolidation stage, I have been working to really embed my knowledge and get myself in a position to enter the job market to look for developer roles.
 
@@ -35,15 +27,15 @@ The Makers course helped me to learn with a lot of self-motivated research how t
 
 ------
 
-- **RESEARCH** - I learnt how to research from a wealth of provided & self-sourced information, and shared those discoveries with others, learning how to differentiate & decipher the necessary methods to help with a project. 
+- **DOMAIN MODELLING/MVC** – I learnt how to design projects from scratch from User Stories using 
+modelling, using self-motivated & sharing research to complete projects, gradually learning to build 
+the full stack with growing understanding of client-server relationships and the structure of the MVC.
 
-- **COMMUNICATION** - I drew on previous work experience to ensure the communication was clear within our pairing and project teams and assist in developing good working code with constant check-ins using Slack, Discord and investigated other peer to peer apps such as Pop.
+- **AGILE WORKING** – I developed agile processes, learning to build a great interactive team experience to make the building of challenging projects more enjoyable and make everyone feel included and valued with an inclusive team charter, using collaborative online documents and peer-programming.
 
-- **VISIBILITY** - I learned about following single responsibility principles to make our code clearer and to use debugging, how to follow error messages & how to make visibility clearer to help the building process. 
+- **TEST DRIVEN DEVELOPMENT** - Building programs incrementally from rigorous TDD principles, learning to read error messages carefully, using debugging and gaining visibility on our process, learning to break down problems and work through each stage of development carefully a step at a time.
 
-- **PATIENCE** - Makers laid the groundwork for learning all the fundamentals of incremental full-stack development. I can draw on previous experience having worked with people with learning disabilities when gradually building their knowledge and skills through 'chaining' with patience and sensitivity, to not undermine their skills progress and feel the step-by-step building approaches in writing code has similar parallels.
-
-- **PERSISTENCE** - The course has also left me better equipped to discuss & disseminate from a wealth of information, to find specific methods that can contribute helpfully to projects and help drive a project along. I have the persistence from a previous career to keep trying different methods to find one that works better and to try and get to grips with learning new tech such as trying to get-to-grips with React in 10 days as part of our final project. While acknowledging this is a very new & challenging world I'm entering, I can't wait to get back to improving and committing more changes to previous projects, exploring new projects and work challenges & have to thank Makers for helping me make this major leap.
+- **THE FULL STACK** - THE FULL STACK – A grounding in all levels of the stack, from fundamental methods building functions & classes using OOP with Ruby & Javascript, the front-end using HTML & CSS & interaction with the back using databases such as PostgresSQL & MongoDB.
 
 ------
 
@@ -51,39 +43,13 @@ The Makers course helped me to learn with a lot of self-motivated research how t
 
 | Name                         | Description       | Tech/tools             |
 | ---------------------------- | ----------------- | ---------------------- |
-| **Final Makers group project - Seedle** https://github.com/david-ewan-campbell/seedle| A one-page React web app with a very pleasing interactive interface to find plants & birds in your location. Pulled live data from APIs using geo-location, that could find local nature data based on your inputted postcode | React, Javascript, Jest, Cypress, HTML, CSS, ESlint, Agile working with Discord, Domain Modelling with Excalidraw, Heroku for deployment | Planning & project progress using Trello Board & ensuring a supportive working environment with an inclusive Team Charter|
-| **Acebook-metaperverse** https://github.com/david-ewan-campbell/acebook-metaperverse | A Facebook clone built in Javascript that users could make posts on and leave messages and likes of posts, emulating Facebook's look as closely as possible | Javascript, NPM Jest, Cypress, Express, MongoDB/Atlas |
+| **Bank Tech-Test** https://github.com/david-ewan-campbell/bank-Tech-Test-Javascript | Self-motivated challenge to build a bank app with rigorous incremental TDD that can be required, instantiated and run in Node REPL. | Javascript, Jest, ESlint, Excalidraw for Domain Modelling, Gitignore |
+| **Final Makers group project - Seedle** https://github.com/david-ewan-campbell/seedle| A one-page React web app that pulled live data from APIs using geo-location, that could find local nature data based on your postcode | React, Javascript, Jest, Cypress, HTML, CSS, ESlint, Agile working with Discord, Domain Modelling with Excalidraw, Heroku for deployment | Planning & project progress using Trello Board & ensuring a supportive working environment with an inclusive Team Charter|
+| **Acebook-metaperverse** https://github.com/david-ewan-campbell/acebook-metaperverse | A Facebook clone built in Javascript that users could make posts on, leave messages and likes of posts, emulating Facebook's look closely. | Javascript, NPM Jest, Cypress, Express, MongoDB/Atlas |
 | **Makers B'n'B** https://github.com/david-ewan-campbell/makersbnb | A group project to build an Air B'n'B clone in Ruby, which had the facility for users to list rooms with a short description, a price per night & availability. Also gave users wishing to book rooms the ability to register, log-in and reserve rooms. | Ruby, RSPEC, Gem Bundler, Sinatra, Capybara, PostgreSQL |
-| **Bank Tech-Test** https://github.com/david-ewan-campbell/bank-Tech-Test-Javascript | Self-motivated challenge to build a bank app that can be required, instantiated and run in the Node REPL, based on a Makers tech-test challenge. Helped me consolidate course knowledge by going through each planning stage from user stories, build the app via step-by-step testing to make sure all test worked with 100% coverage. | Javascript, Jest, ESlint, Excalidraw for Domain Modelling, Gitignore |
 | **Chitter App** https://github.com/david-ewan-campbell/chitter-challenge | Makers solo challenge to build a Twitter clone in Ruby with an ability to post the equivalent of 'Tweets' (Peeps) and comment on them | Ruby, RSPEC, Capybara, PostgresSQL
 
 ------
-
-# MY SKILLS
-
-`A long-term ability to deal with challenging situations within a time-frame`
-
-- In many of my roles I've had to combine use of technology/catalogue systems within a variety of support situations. Often I've directed someone else or used technology myself to facilitate their development and achieved success in helping grow their knowledge & skills or to help them find a specific item. This supportive interaction has made me a very capable 'team player' and a good observer & listener in pair-programming, while under a time-constraint for a project but also have observed & understand the frustrations where the technology/apps provided don't quite meet the needs of users.
-
-`Ability to be organised independently & coordinating within a team`
-
-- I've had to be very organised in a lot of my roles, coordinating with a large group of staff while using software to help with organisation. This ability to coordinate and delegate has been within both team and solo situations, where I've had to be resourceful and work under my own motivation to make for a successful collaboration. This has helped me with coordinating with others during the course and with learning about incremental project building.
-
-`Able to support and facilitate projects successfully, be adaptable and 'keep my cool'`
-
-- Years of experience within previous education support & therapy roles, in challenging circumstance I learned to remain calm and focused on a task & in coordination with other team members, while helping those I supported achieve their learning/creative goals. I feel this has given me a firm grounding in working in new & challenging coding situations. During the course we were often grouped with others we hadn't worked with before & had to delegate working through a challenging project, using working styles & tech we hadn't used before and to achieve results quickly, while all being part of the creation of a working and visually satisfying, interactive end product that hopefully fulfilled the brief.
-
-`What I hope I can bring to a coding/development situation`
-
-**Patience/Communication/Coping with Blockers**
-
-- Within the Makers course I learnt I can bring the skills of patience and good communication from previous work to a development situation and was able to work on sourcing information about methods that could help further that project and make valuable contributions. In the final project we had a significant obstacle with React on how to 'pull in' API data via inputted postcodes, using state 'hooks', but I helped source a key nugget of information that helped progress beyond this major 'blocker'.
-
-**Delegation/Agile Work/Resilience**
-
-- I can also take delegation from other team members to focus on a particular aspect of a project and have a willingness to work on something that contributes usefully to team projects as a whole and within quick/agile time-scales. I hopefully showed I could be resilient & supportive and use agile principles to be able to move flexibly between roles and technology and to adapt to new tech' such as using REACT for the first time, but also to discuss and write an inclusive team methodology that made everyone feel supported and part of the success of a project from the outset.
-
---------
 
 # WORK EXPERIENCE
 
@@ -163,6 +129,6 @@ Bridlington School/Scarborough Sixth Form College - 1987/1989\
 
 ------
 
-## References Available Upon Request
+## References and Contact details Available on Request
 
 ------
