@@ -1,6 +1,6 @@
 <h1 align="center"> DAVID EWAN CAMPBELL</h1>
 
-[INTRODUCTION](#introduction) | [EXPERIENCE](#experience) | [SOME OF MY GITHUB PROJECTS](#some-of-my-github-projects) | [WORK EXPERIENCE](#work-experience) | [PREVIOUS CAREER EXPERIENCE](#previous-career-experience) | [EDUCATION AND QUALIFICATIONS](#education-and-qualifications) | [SOME OTHER QUITE INTERESTING THINGS ABOUT ME](#some-other-quite-interesting-things-about-me) | <a href="https://www.linkedin.com/in/david-ewan-campbell-11260b61">LINKED IN</a> | <a href="https://www.codewars.com/users/david-ewan-campbell">CODE WARS</a> | <a href="https://github.com/david-ewan-campbell?tab=repositories">MY GITHUB REPOS</a> | <a href="https://github.com/david-ewan-campbell/CV/blob/main/David%20Ewan%20Campbell%20External%20CV.pdf">EXTERNAL CV PDF</a>
+[INTRODUCTION](#introduction) | [EXPERIENCE](#experience) | [SOME OF MY GITHUB PROJECTS](#some-of-my-github-projects) | [WORK EXPERIENCE](#work-experience) | [PREVIOUS CAREER EXPERIENCE](#previous-career-experience) | [EDUCATION AND QUALIFICATIONS](#education-and-qualifications) | [SOME OTHER QUITE INTERESTING THINGS ABOUT ME](#some-other-quite-interesting-things-about-me) | <a href="https://www.linkedin.com/in/david-ewan-campbell-11260b61">LINKED IN</a> | <a href="https://www.codewars.com/users/david-ewan-campbell">CODE WARS</a> | <a href="https://github.com/david-ewan-campbell?tab=repositories">MY GITHUB REPOS</a> | <a href="https://github.com/david-ewan-campbell/CV/blob/main/David%20Ewan%20Campbell%20CV%20June%202023.pdf">EXTERNAL CV PDF</a>
 
 ----------
 
