@@ -1,6 +1,6 @@
 <h1 align="center"> DAVID EWAN CAMPBELL</h1>
 
-[INTRODUCTION](#introduction) | [EXPERIENCE](#experience) | [JUST SOME OF MY GITHUB PROJECTS](#just-some-of-my-github-projects) | [WORK EXPERIENCE](#work-experience) | [PREVIOUS CAREER EXPERIENCE](#previous-career-experience) | [EDUCATION AND QUALIFICATIONS](#education-and-qualifications) | [SOME OTHER QUITE INTERESTING THINGS ABOUT ME](#some-other-quite-interesting-things-about-me) | <a href="https://www.linkedin.com/in/david-ewan-campbell-11260b61">LINKED IN</a> | <a href="https://www.codewars.com/users/david-ewan-campbell">CODE WARS</a> | <a href="https://github.com/david-ewan-campbell?tab=repositories">MY GITHUB REPOS</a> | <a href="https://github.com/david-ewan-campbell/CV/blob/main/David%20Ewan%20Campbell%20External%20CV.pdf">EXTERNAL CV PDF</a>
+[INTRODUCTION](#introduction) | [EXPERIENCE](#experience) | [SOME OF MY GITHUB PROJECTS](#some-of-my-github-projects) | [WORK EXPERIENCE](#work-experience) | [PREVIOUS CAREER EXPERIENCE](#previous-career-experience) | [EDUCATION AND QUALIFICATIONS](#education-and-qualifications) | [SOME OTHER QUITE INTERESTING THINGS ABOUT ME](#some-other-quite-interesting-things-about-me) | <a href="https://www.linkedin.com/in/david-ewan-campbell-11260b61">LINKED IN</a> | <a href="https://www.codewars.com/users/david-ewan-campbell">CODE WARS</a> | <a href="https://github.com/david-ewan-campbell?tab=repositories">MY GITHUB REPOS</a> | <a href="https://github.com/david-ewan-campbell/CV/blob/main/David%20Ewan%20Campbell%20External%20CV.pdf">EXTERNAL CV PDF</a>
 
 ----------
 
@@ -39,7 +39,7 @@ the full stack with growing understanding of client-server relationships and the
 
 ------
 
-# JUST SOME OF MY GITHUB PROJECTS
+# SOME OF MY GITHUB PROJECTS
 
 | Name                         | Description       | Tech/tools             |
 | ---------------------------- | ----------------- | ---------------------- |
@@ -55,9 +55,18 @@ the full stack with growing understanding of client-server relationships and the
 
 `LENGTHY EXPERIENCE WORKING WITH COMPUTERS, CATALOGUING & MAKING FINISHED PROJECTS WITHIN TIGHT DEADLINES`
 
-I have a previous background in library-cataloguing, office & computing work & subtitling also in Maths, English education, music and art support/therapy & have effectively used various visual & audio software to support clients & complete projects to deadlines while maintaining the safe input & storage of sensitive information.
+I have a previous background in library-work/cataloguing, office & computing work & subtitling, also in Maths & English education support, music and art support/therapy & have effectively used various visual & audio software to support clients & complete projects to deadlines while maintaining the safe input & storage of sensitive information.
 
 ------
+
+`SELF-EMPLOYED ONLINE SHOP SALES OF RARE VINYL, BOOKS, DVDS`
+
+- **Online Seller** (Ongoing work up to the present)
+
+'Running my own business using various using platforms selling rigorously graded collectible items'
+
+I've managed my own tme and finances efectively and have 100% ratings from over 500 feedback 
+points on selling sites such as Ebay & Discogs
 
 `FAST RENDERING OF ARCHITECTURAL DRAWINGS & DISPLAYS FOR PROJECTS`
 
@@ -104,6 +113,10 @@ I was responsible for maintaining & updating an extensive library catalogue usin
 ------------
 
 # EDUCATION AND QUALIFICATIONS
+
+- **2016 – Carousel Training Course**
+
+  Course to train in the fundamentals of facilitating the accessing of music & art creativity for people with additional support needs.
 
 - **June 2013 – GCSE Grade B in Core Science at Varndean College Brighton.**
 
